@@ -1,0 +1,21 @@
+.nameInput{
+    width:230px;
+    height:18px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    margin:0;
+    line-height: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color:rgba(255, 0, 0, 0);
+    border:none;
+    margin-top:25px;
+    margin-left:32px;
+    
+  
+
+
+}

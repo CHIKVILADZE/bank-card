@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap');
+
+.cardfront{
+    width:447px;
+    height:245px;
+   
+    margin-left:164px;
+    margin-top:50px;
+    background-image:url(../front.png)
+}
+
+.cardNumber{
+    width:372px;
+    height:36px;
+ 
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 23px;
+    color:white;
+    margin-top:64px;
+    margin-left:32px;
+    border:none;
+    background-color:rgba(255, 0, 0, 0);
+
+}
+
+.name{
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color:white;
+    background-color:rgba(255, 0, 0, 0);
+    width:200px;
+    height:18px;
+    border:none;
+}
+
+
+.namedate{
+    
+    width:80%;
+    height:18px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top:25px;
+    margin-left:32px;
+    margin-right:26px;
+
+}
+.logo{
+    margin-top:28px;
+    margin-left:32px;
+}
+
+
+.cardback{
+    width:447px;
+    height:245px;
+    margin-top:37px;
+    margin-left:258px;
+   
+    background-image:url(../back.png)
+
+}
+
+.cvc{
+    margin-top:111px;
+    margin-left:358px;
+    width:35px;
+    height:18px;
+    background-color:rgba(255, 0, 0, 0);
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    border:none;
+
+    text-align: right;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+
+    color: #FFFFFF;
+    }
+    .date{
+        width:55px;
+        height:18px;
+        background-color:rgba(255, 0, 0, 0);
+        font-family: 'Space Grotesk';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: right;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #FFFFFF;
+        border:none;
+ }

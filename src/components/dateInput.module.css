@@ -1,0 +1,14 @@
+.dateNumber{
+    width:50px;
+    height:18px;
+    font-family: 'Space Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 23px;
+    color:#FFFFFF;
+    margin-top:25px;
+    margin-left:90px;
+    background-color:rgba(255, 0, 0, 0);
+    border:none;
+}
