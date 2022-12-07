@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bank-card/static/css/main.21e137df.css",
+    "main.js": "/bank-card/static/js/main.2de6aaa9.js",
+    "static/media/background.png": "/bank-card/static/media/background.806e7aa7b4dbc1d78bc3.png",
+    "static/media/back.png": "/bank-card/static/media/back.23f68fa3aa3d5b33dfc8.png",
+    "static/media/front.png": "/bank-card/static/media/front.8153e2ca184402a8385f.png",
+    "index.html": "/bank-card/index.html",
+    "static/media/icon.svg": "/bank-card/static/media/icon.8fd757c0c5c44b1d597ca411400e046d.svg",
+    "static/media/cardlogo.svg": "/bank-card/static/media/cardlogo.8ca9036515954c3f8191559dce9c7bdf.svg",
+    "main.21e137df.css.map": "/bank-card/static/css/main.21e137df.css.map",
+    "main.2de6aaa9.js.map": "/bank-card/static/js/main.2de6aaa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21e137df.css",
+    "static/js/main.2de6aaa9.js"
+  ]
+}
